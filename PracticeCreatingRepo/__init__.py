@@ -1,1 +1,1 @@
-from need_to_run.py import runthisfunc
+from .need_to_run import runthisfunc
